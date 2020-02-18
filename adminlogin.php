@@ -1,5 +1,5 @@
 <?php
-	
+	#?
 	session_start();
 	$link= mysqli_connect('localhost','root','','project');
 	$username=$_POST['username'];
