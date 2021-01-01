@@ -1,4 +1,4 @@
-# WebDev
+# CricDB
 Front End: HTML,CSS,JS. 
 Backend: PHP. 
 DBMS: MySql,PhpMyAdmin.
